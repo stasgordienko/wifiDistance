@@ -1,0 +1,41 @@
+<map>
+  <w>7</w>
+  <h>5</h>
+  <x>0</x>
+  <y>0</y>
+  <scale>1</scale>
+  <resolution>100</resolution>
+  <receiver id="0">
+    <x>7.62</x>
+    <y>2.78</y>
+    <name>Client0</name>
+    <antType>0</antType>
+    <antGain>2</antGain>
+    <sensitivity>-96</sensitivity>
+    <reqSpeed>2</reqSpeed>
+  </receiver>
+  <ap id="0">
+    <x>1.27</x>
+    <y>1.19</y>
+    <name>AP0</name>
+    <power>17</power>
+    <antGain>2</antGain>
+    <maxSpeed>54</maxSpeed>
+  </ap>
+  <ap id="1">
+    <x>1.29</x>
+    <y>4.1</y>
+    <name>AP1</name>
+    <power>17</power>
+    <antGain>2</antGain>
+    <maxSpeed>54</maxSpeed>
+  </ap>
+  <obj id="0">
+    <x1>1.67</x1>
+    <y1>2.33</y1>
+    <x2>2.03</x2>
+    <y2>5.67</y2>
+    <name>Object0</name>
+    <material>3</material>
+  </obj>
+</map>
